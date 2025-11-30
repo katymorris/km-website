@@ -1,0 +1,8 @@
+{
+  "id": "post1",
+  "title": "Getting Started with Web Development",
+  "date": "2024-11-30",
+  "excerpt": "A beginner's guide to starting your journey in web development. Learn about the fundamentals of HTML, CSS, and JavaScript, and discover resources to help you along the way.",
+  "content": "Welcome to my first blog post! Today, I want to share some insights about getting started with web development.\n\nWeb development is an exciting field that combines creativity with technical skills. Whether you're interested in building beautiful user interfaces or creating powerful web applications, there's something for everyone.\n\nThe foundation of web development lies in three core technologies: HTML, CSS, and JavaScript. HTML provides the structure of your web pages, CSS handles the styling and layout, and JavaScript adds interactivity and dynamic behavior.\n\nStarting your journey can feel overwhelming, but remember that every expert was once a beginner. Take it one step at a time, practice regularly, and don't be afraid to experiment. The web development community is incredibly supportive, and there are countless resources available to help you learn.\n\nHappy coding!"
+}
+

@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Commished",
+      "description": "Sales made simple. With Commished, businesses and sellers team up to create win-win opportunities. Find the right sales partners and close more deals with ease.",
+      "url": "https://commished.com",
+      "technologies": ["React", "TypeScript", "Node.js"]
+    }
+  ]
+}
+
